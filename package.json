@@ -1,0 +1,24 @@
+{
+  "name": "node-babel-async",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jszajner7/node-babel-async.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jszajner7/node-babel-async/issues"
+  },
+  "homepage": "https://github.com/jszajner7/node-babel-async#readme",
+  "devDependencies": {
+    "babel-cli": "^6.16.0",
+    "babel-plugin-syntax-async-functions": "^6.13.0",
+    "babel-plugin-transform-regenerator": "^6.16.1"
+  }
+}
